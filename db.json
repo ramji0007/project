@@ -35,6 +35,18 @@
       "Price": "45",
       "Status": "Order Placed",
       "id": 3
+    },
+    {
+      "firstName": "Nikhil",
+      "lastName": "Kumar",
+      "Address": "68 albert",
+      "City": "Sault Ste. Marie",
+      "Province": "Alberta",
+      "PostalCode": "P6A2H9",
+      "Book": "Harry Potter 7 Books Set",
+      "Price": "45",
+      "Status": "Order Placed",
+      "id": 4
     }
   ]
 }
