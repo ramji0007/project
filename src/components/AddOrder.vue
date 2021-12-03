@@ -186,7 +186,7 @@ export default{
     
       async addOrder(newOrder){
      
-      const res = await fetch('http://process.env.PORT/orders',{
+      const res = await fetch('http://localhost:5000/orders',{
         method: 'POST',
         headers: {
           'Content-type': 'application/json',
