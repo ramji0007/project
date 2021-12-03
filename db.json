@@ -23,6 +23,18 @@
       "Price": "45",
       "Status": "Order Placed",
       "id": 2
+    },
+    {
+      "firstName": "Albus",
+      "lastName": "Dumbldore",
+      "Address": "Hogwarts",
+      "City": "London",
+      "Province": "British Colombia",
+      "PostalCode": "P6a 2h8",
+      "Book": "Harry Potter 7 Books Set",
+      "Price": "45",
+      "Status": "Order Placed",
+      "id": 3
     }
   ]
 }
