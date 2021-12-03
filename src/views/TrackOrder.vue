@@ -121,7 +121,7 @@ export default{
     
     methods:{
     async fetchOrders(){
-      const res = await fetch('http://localhost:5000/orders')
+      const res = await fetch('http://process.env.PORT/orders')
 
       const data = await res.json()
 
@@ -129,7 +129,7 @@ export default{
     },
 
     async fetchOrder(id){
-      const res = await fetch(`http://localhost:5000/orders/${id}`)
+      const res = await fetch(`http://process.env.PORT/orders/${id}`)
 
       const data = await res.json()
 
