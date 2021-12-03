@@ -1,0 +1,28 @@
+{
+  "orders": [
+    {
+      "firstName": "Sushant",
+      "lastName": "Singh",
+      "Address": "68",
+      "City": "Sault Ste. Marie",
+      "Province": "Quebec",
+      "PostalCode": "P6A2H9",
+      "Book": "Ikagai",
+      "Price": "45",
+      "Status": "Order Placed",
+      "id": 1
+    },
+    {
+      "firstName": "Tori",
+      "lastName": "Singh",
+      "Address": "68",
+      "City": "Sault Ste. Marie",
+      "Province": "Manitoba",
+      "PostalCode": "P6A2H9",
+      "Book": "The 48 Laws of Power",
+      "Price": "45",
+      "Status": "Order Placed",
+      "id": 2
+    }
+  ]
+}
